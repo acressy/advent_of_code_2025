@@ -29,5 +29,7 @@ with open("input.txt", "r") as file:
         if position == 0:
             zero_count += 1
 
-print(zero_count)
+# Print password to open the door!
+with open("password.txt", "w") as outfile:
+    outfile.write(str(zero_count))
 

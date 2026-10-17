@@ -38,6 +38,5 @@ with open("input.txt", "r") as file:
             zero_count += 1
 
 # Print password to open the door!
-print(zero_count)
-
-
+with open("password.txt", "w") as outfile:
+    outfile.write(str(zero_count))
