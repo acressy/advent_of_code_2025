@@ -18,3 +18,7 @@ Identify the maximum joltage per battery from each elevator
 - Part 1: Highest joltage possible using 2 batteries
 - Part 2: Highest joltage possible using 12 batteries
 
+## Day04: The Printing Department ⭐️⭐️
+We made it to the printing department but the elevators are still down... so we are going to break through the cafeteria wall using a forklift! However, we first need to optimize forklift work so we can use some of the extra time to break through the wall.
+- Part 1: Count how many paper rolls are removable if we don't remove anything right away
+- Part 2: Count how many paper rolls are removable if we iteratively remove them
