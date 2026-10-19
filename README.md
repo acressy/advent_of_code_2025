@@ -22,3 +22,8 @@ Identify the maximum joltage per battery from each elevator
 We made it to the printing department but the elevators are still down... so we are going to break through the cafeteria wall using a forklift! However, we first need to optimize forklift work so we can use some of the extra time to break through the wall.
 - Part 1: Count how many paper rolls are removable if we don't remove anything right away
 - Part 2: Count how many paper rolls are removable if we iteratively remove them
+
+## Day05: The Cafeteria ⭐️
+After breaking down walls between the cafeteria and printing room, we are helping the elves in the kitchen by processing data from the new inventory management system in the cafeteria.
+- Part 1: Count how many of the listed items are fresh
+- Part 2: Count all of the possible fresh IDs
