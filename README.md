@@ -24,7 +24,7 @@ We made it to the printing department but the elevators are still down... so we 
 - Part 1: Count how many paper rolls are removable if we don't remove anything right away
 - Part 2: Count how many paper rolls are removable if we iteratively remove them
 
-## Day05: The Cafeteria ⭐️
+## Day05: The Cafeteria ⭐️⭐️
 After breaking down walls between the cafeteria and printing room, we are helping the elves in the kitchen by processing data from the new inventory management system in the cafeteria.
 - Part 1: Count how many of the listed items are fresh
 - Part 2: Count all of the possible fresh IDs
